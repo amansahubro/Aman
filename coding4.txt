@@ -1,5 +1,0 @@
-developer
-tester
-devops
-hr
-Buisness development
